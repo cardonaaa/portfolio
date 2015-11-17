@@ -1,0 +1,128 @@
+/*begin nav bar related*/
+#main-nav {
+	position: fixed;
+	display: block;
+	backgrond-position: fixed;
+	margin-top: 8%;
+	margin-left:6%;
+	-webkit-transform: translateZ(0);
+}
+
+.inav {
+	color: #fbfbfb;
+}
+
+.inav:hover {
+	color: #525D68;
+}
+
+.nav-btn {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin: 15px;
+	display: inline-block;
+	width: 85px;
+	background-color: #fff;
+	border-radius: 0px;
+	border-style: solid;
+	border-width: medium;
+	border-color: #A3C697;
+	color: #A3C697;
+	font-family: 'Oxygen', sans-serif;
+	font-weight: 700;
+	font-size: 16px;
+}
+.nav-btn:hover, .nav-btn:active {
+	color: #fbfbfb;
+	background-color: #A3C697;
+	cursor: grab;
+}
+
+/*begin name related*/
+.name {
+	font-family: "Montserrat", sans-serif;
+	font-size: 350%;
+	color: #fbfbfb;
+	margin-top: 10%;
+	margin-bottom: 25%;
+}
+
+/*begin caption related*/
+
+.section-ts {
+	font-family: "Montserrat", sans-serif;
+	font-size: 250%;
+	font-weight: 700;
+	margin-top: -3%;
+	margin-bottom: 5%;
+}
+
+.caption {
+	font-weight: 700;
+}
+
+.pinfo {
+	border: 3px solid #D49918;
+	padding: 6%;
+}
+
+/*begin experience section related*/
+.jobs {
+	margin-bottom: 3%;
+}
+
+.school {
+	margin-bottom: 5%;
+}
+
+.einfo {
+	color: #c5c5c5;
+}
+
+.ecaption {
+	color: #fbfbfb;
+	font-weight: 700;
+}
+
+.posit-descrip {
+	color: #8F8F8F;
+}
+
+/*begin art section related*/
+
+.art-content {
+	padding: 20%;
+}
+
+.art-label {
+	font-size: 200%;
+	font-weight: 700;
+}
+
+.art-label:hover {
+	color: #8F8F8F;
+}
+
+/*begin contact section related*/
+
+.contact-content {
+	padding: 3%;
+}
+
+/*rating system*/
+.stars {
+	color: #C5C2B9;
+	margin: 6% 1% 1% 1%;
+}
+
+.stars:hover {
+	cursor:grab;
+}
+
+/*misc*/
+.sideways {
+	-webkit-transform: rotate(-90deg);
+	-moz-transform: rotate(-90deg);
+	-ms-transform: rotate(-90deg);
+	-o-transform: rotate(-90deg);
+}

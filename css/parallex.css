@@ -1,0 +1,59 @@
+#intro { 
+    background: url("../img/sunflowers.png") 50% 0 fixed; 
+    height: auto;  
+    margin: 0 auto; 
+    width: 100%; 
+    /*position: relative; */
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 100px 0;
+    background-size: cover;
+}
+
+#info {
+	background: #fff 50% 0 fixed; 
+    height: auto;  
+    margin: 0 auto; 
+    width: 100%; 
+    /*position: relative; */
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 100px 0;
+    background-size: cover;
+    font-family: "Oxygen", sans-serif;
+}
+
+#experience {
+	background: url("../img/lilies.png") 50% 0 fixed; 
+    height: auto;  
+    margin: 0 auto; 
+    width: 100%; 
+    /*position: relative; */
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 100px 0;
+    font-family: "Oxygen", sans-serif;
+    color: #fbfbfb;
+}
+
+
+#art {
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("../img/peonies.png") 50% 0 fixed; 
+    height: auto;  
+    margin: 0 auto; 
+    width: 100%;
+    /*position: relative; */
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 100px 0;
+    font-family: "Oxygen", sans-serif;
+    color: #C5C5C5;
+}
+
+#contact-msg {
+	background: #fff 50% 0 fixed; 
+    height: auto;  
+    margin: 0 auto; 
+    width: 100%; 
+    /*position: relative; */
+    box-shadow: 0 0 50px rgba(0,0,0,0.8);
+    padding: 100px 0;
+    background-size: cover;
+    font-family: "Oxygen", sans-serif;
+}
